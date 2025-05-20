@@ -881,22 +881,14 @@ export default function CardlistScreen() {
     {/* Hover */}
     <View style={[styles.listContainer, { flex:0.25,height: screenHeight }]}> 
       {/* Google Ads (測試用 Banner) */}
-      {Platform.OS === 'web' ? (
-          <View style={{ alignItems: 'center', marginBottom: 10 }}>
-          <iframe
-              title="web-ads"
-              style={{ width: 300, height: 50, border: 'none', overflow: 'hidden' }}
-              src="https://your-adsense-code-or-test-ad-link"
-          />
-          </View>
-      ) : (
-          <AdMobBanner
-          bannerSize="mediumRectangle"
-          adUnitID="ca-app-pub-3940256099942544/6300978111" // 測試用 ID
-          servePersonalizedAds
-          onDidFailToReceiveAdWithError={(err) => console.log('Ad error', err)}
-          />
-      )}
+      <View style={{ alignItems: 'center', marginBottom: 10 }}>
+      <iframe
+          title="web-ads"
+          style={{ width: 300, height: 50, border: 'none', overflow: 'hidden' }}
+          src="https://your-adsense-code-or-test-ad-link"
+      />
+      </View>
+      
         
       {hoveredCard && (
           <View style={{ flexDirection: 'column', padding: 8, backgroundColor: currentTheme.background, borderRadius: 8 }}>

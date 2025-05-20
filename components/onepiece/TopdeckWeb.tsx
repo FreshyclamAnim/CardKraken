@@ -354,22 +354,15 @@ export default function TopdeckScreen() {
       <View style={[styles.rightPanel, { backgroundColor: currentTheme.background }]}>
         <Text style={[styles.title, { color: currentTheme.text }]}>Detail</Text>
         {/* Google Ads (測試用 Banner) */}
-        {Platform.OS === 'web' ? (
-          <View style={{ alignItems: 'center', marginBottom: 10 }}>
-            <iframe
-              title="web-ads"
-              style={{ width: 300, height: 50, border: 'none', overflow: 'hidden' }}
-              src="https://your-adsense-code-or-test-ad-link"
-            />
-          </View>
-        ) : (
-          <AdMobBanner
-            bannerSize="mediumRectangle"
-            adUnitID="ca-app-pub-3940256099942544/6300978111" // 測試用 ID
-            servePersonalizedAds
-            onDidFailToReceiveAdWithError={(err) => console.log('Ad error', err)}
+      
+        <View style={{ alignItems: 'center', marginBottom: 10 }}>
+          <iframe
+            title="web-ads"
+            style={{ width: 300, height: 50, border: 'none', overflow: 'hidden' }}
+            src="https://your-adsense-code-or-test-ad-link"
           />
-        )}
+        </View>
+      
 
 
 
