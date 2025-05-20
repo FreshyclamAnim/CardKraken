@@ -3,13 +3,23 @@ import React from 'react';
 import { TouchableOpacity, Text, View, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
+// 1. 定義 Props 介面
+interface DropdownButtonProps {
+  label: string;
+  onPress: () => void;
+  theme: 'white' | 'dark';
+  selected: boolean;
+  width?: number;
+}
+
+// 2. 在函式簽名標注類型
 export default function DropdownButton({
   label,
   onPress,
   theme,
   selected,
   width = 150,
-}) {
+}: DropdownButtonProps) {
   const currentTheme = theme === 'white' ? whiteTheme : darkTheme;
 
   return (
@@ -39,6 +49,7 @@ export default function DropdownButton({
     </TouchableOpacity>
   );
 }
+
 
 const styles = StyleSheet.create({
   button: {
