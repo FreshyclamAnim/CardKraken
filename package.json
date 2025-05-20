@@ -9,7 +9,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
-    "postinstall": "postinstall"
+    "postinstall": "postinstall",
+    "build": "next build"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
