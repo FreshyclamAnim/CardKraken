@@ -38,7 +38,8 @@ const shareCardWidth = (screenWidth - shareCardMargin * 3 * numColumnsForShare) 
 
 export default function BuilderMobileScreen() {
 
-  const viewShotRef = useRef();
+  //const viewShotRef = useRef();
+  const viewShotRef = useRef<any>(null);
 
   const [theme, setTheme] = useState<'white' | 'dark'>('dark');
   const currentTheme = theme === 'white' ? whiteTheme : darkTheme;
