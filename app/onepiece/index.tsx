@@ -1,8 +1,19 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, FlatList, Image, SafeAreaView, Linking, useColorScheme } from 'react-native';
 
+// 定义新闻数据的类型
+interface NewsItem {
+  id: string;
+  image: string;
+  title: string;
+  category: string;
+  date: string;
+  link?: string;
+}
+
 export default function HomeScreen() {
-  const [news, setNews] = useState([]);
+  //const [news, setNews] = useState([]);
+  const [news, setNews] = useState<NewsItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -24,7 +35,8 @@ export default function HomeScreen() {
         }
         return response.json();
       })
-      .then(data => {
+      // .then(data => {
+      .then((data: NewsItem[]) => {
         setNews(data);
         setIsLoading(false);
       })
