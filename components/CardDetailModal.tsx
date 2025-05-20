@@ -28,6 +28,7 @@ interface Card {
   feature: string;
   text: string;
   get_info: string;
+  trigger:string
 }
 
 interface Props {
