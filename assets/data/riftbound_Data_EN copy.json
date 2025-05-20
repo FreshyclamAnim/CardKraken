@@ -1,0 +1,808 @@
+[
+    {
+        "id": "OP12-108_p1",
+        "card_name": "Donquixote Rosinante",
+        "card_grade": "C",
+        "energy": "1",
+        "recycle": "1",
+        "attribute": "Special",
+        "might": "2000",
+        "color": "Yellow",
+        "text": "[On play] Look at the top 5 cards of your deck and reveal up to 1 {Trafalgar Law} and put it in your hand. Then place the rest on the bottom of your deck in any order.",
+        "get_info": "OP12",
+        "cardtype": "Battlefield",
+        "keywords": "",
+        "series": "OP12",
+        "tag-tribe": "-",
+        "image_url": "https://raw.githubusercontent.com/Freshyclam/OPTCGDB/refs/heads/main/LeakedImages/OP12/OP12-108_p1.png",
+        "QNA": "-"
+    },
+    {
+        "name":"Loose Cannon",
+        "id":"FND-251",
+        "grade":"R",
+        "series":"FND-251",
+        "effect":"At the start of your Beginning Phase, draw 1 if you have 1 or fewer cards in your hand",
+        "category":"Legend",
+        "color":"Fury,Chaos",
+        "type":"-",
+        "powerCost":"-",
+        "might":"-",
+        "subtitle":"JINX",
+        "getInfo":"Jinx Starter",
+        "image_url":""
+    }
+
+Loose Cannon
+FND-251 | R |
+Effect: At the start of your Beginning Phase, draw 1 if you have 1 or fewer cards in your hand
+Category: Legend
+Color: Fury, Chaos
+Subtitle: JINX
+
+
+Vi
+FND-036 | R |
+Effect: [Ganking] (I can move from battlefield to battlefield) Recycle 1 from your trash: Give me +1 Might this turn
+Category: Champion
+Color: Fury
+Type: Piltover
+Cost: 2
+Power Cost: 1 Fury
+Might: 3
+Subtitle: DESTRUCTIVE
+
+Jinx
+FND-031 | R |
+Effect: [Accelerate] [[Assault 2] (As I'm played, you may pay 1 energy and 1 Fury power as an additional cost to have me enter ready. +2 Might while i'm an attacker) When you play me, discard 2
+Category: Champion
+Color: Fury
+Type: Zaun
+Cost: 3
+Power Cost: 1 Fury
+Might: 4
+Subtitle: DEMOLITIONIST
+
+
+Jinx
+FND-202 | SR |
+Effect: When you discard one or more cards, ready me and give me +1 Might this turn
+Category: Champion
+Color: Chaos
+Type: Zaun
+Cost: 5
+Power Cost: 1 Chaos
+Might: 5
+Subtitle: REBEL
+
+Legion Rearguard
+FND-009 | C |
+Effect: Accelerate (As I'm played, you may pay 1 energy and 1 Fury power as an additional cost to have me enter ready)
+Category: Unit
+Color: Fury
+Type: Noxus, Trifarian
+Cost: 2
+Might: 2
+
+Traveling Merchant
+FND-185 | UC |
+Effect: When I move, discard 1 then draw 1
+Category: Unit
+Color: Chaos
+Type: Bilgewater
+Cost: 2
+Might: 2
+
+Chemtech Enforcer
+FND-003 | C |
+Effect: [Assault 2] (+2 Might while I'm an attacker) When you play me, discard 1
+Category: Unit
+Color: Fury
+Type: Zaun
+Cost: 2
+Might: 2
+
+Flame Chompers
+FND-006 | C |
+Effect: When you discard me, you may pay 1 Fury power to play me
+Category: Unit
+Color: Fury
+Type: Zaun
+Cost: 3
+Might: 3
+
+Noxus Hopeful
+FND-012 | C |
+Effect: [Legion] I cost 2 energy less (Gain this effect if you've played another card this turn)
+Category: Unit
+Color: Fury
+Type: Noxus, Trifarian
+Cost: 4
+Might: 3
+
+Scrapyard Champion
+FND-021 | R |
+Effect: [Legion] When you play me, discard 2 then draw 2 (Get the effect if you've played another card this turn)
+Category: Unit
+Color: Fury
+Type: Bandle City, Mech
+Cost: 5
+Power Cost: 1 Fury
+Might: 5
+
+Undercover Agent
+FND-178 | C |
+Effect: [Deathknell] Discard 2 then draw 2. (When I die, get the effect)
+Category: Unit
+Color: Chaos
+Cost: 5
+Power Cost: 1 Chaos
+Might: 5
+
+Brazen Buccaneer
+FND-002 | C |
+Effect: As you play me, you may discard a card as an additional cost. If you do, reduce my cost by 2 energy
+Category: Unit
+Color: Fury
+Type: Bilgewater, Pirate
+Cost: 6
+Might: 5
+
+Gust
+FND-169 | C |
+Effect: [Reaction] (This may played in response to another spell or ability) Return a unit with 3 Might or less to its owner's hand
+Category: Spell
+Color: Chaos
+Cost: 1
+
+Rebuke
+FND-172 | C |
+Effect: Return a unit at a battlefield to its owner's hand
+Category: Spell
+Color: Chaos
+Cost: 2
+Power Cost: 2 Chaos
+
+Super Mega Death Rocket!
+FND-252 | SR |
+Effect: [Focused] (Play only during turn outside a showdown) Deal 5 to a unit anywhere. When you score, you may discard a card to return me from your trash to your hand
+Category: Spell
+Color: Fury, Chaos
+Cost: 3
+Power Cost: 1 Fury/Chaos
+Subtitle: JINX
+
+Possession
+FND-204 | SR |
+Effect: Move an enemy from a battlefield to YOUR base exhausted. You now control it
+Category: Spell
+Color: Chaos
+Cost: 8
+Power Cost: 3 Chaos
+
+Seal of Fury
+FND-040 | SR |
+Effect: Exhaust: Add 0 energy and 1 Fury power. Activate this any time
+Category: Gear
+Color: Fury
+Cost: 0
+Power Cost: 1 Fury
+
+Seal of Discord
+FND-205 | SR |
+Effect: Exhaust: Add 0 energy and 1 Chaos power. Activate this any time
+Category: Gear
+Color: Chaos
+Cost: 0
+Power Cost: 1 Chaos
+
+Windswept Hillock
+FND-297 | UC |
+Effect: Units here have [Ganking] (They can move battlefield to battlefield)
+Category: Battlefield
+
+Zaun Warrens
+FND-298 | UC |
+Effect: When you conquer here, discard 1 then draw 1
+Category: Battlefield
+
+Reaver's Row
+FND-285 | UC |
+Effect: When you defend here, you may move a friendly unit here to base
+Category: Battlefield
+
+Fury Rune
+FND-007 | T |
+Effect: Exhaust: Add 1 Energy. Recycle Me: Add 1 Fury Power. Activate this any time
+Category: Rune
+Color: Fury
+
+Chaotic Rune
+FND-166 | T |
+Effect: Exhaust: Add 1 Energy. Recycle Me: Add 1 Chaos Power. Activate this any time
+Category: Rune
+Color: Chaos
+------------------------------------------JINX
+
+
+Unforgiven
+FND-259 | R |
+Effect: Pay 2 energy and exhaust your legend: Move a friendly unit to or from your base
+Category: Legend
+Color: Calm, Chaos
+Subtitle: YASUO
+
+Miss Fortune
+FND-203 | R |
+Effect: You may play me to an open battlefield. Friendly units may be played to open battlefields
+Category: Champion
+Color: Chaos
+Type: Bilgewater, Pirate
+Cost: 4
+Power Cost: 1 Chaos
+Might: 4
+Subtitle: BUCCANEER
+
+Yasuo
+FND-082 | R |
+Effect: When I attack, deal damage equal to my Might to an enemy here
+Category: Champion
+Color: Calm
+Type: Ionia
+Cost: 6
+Power Cost: 2 Calm
+Might: 6
+Subtitle: REMORSEFUL
+
+Kayn
+FND-189 | R |
+Effect: [Ganking] (I can move from battlefield to battlefield) If I have moved twice this turn, I don't take damage
+Category: Champion
+Color: Chaos
+Type: Ionia
+Cost: 6
+Power Cost: 1 Chaos
+Might: 6
+Subtitle: UNLEASHED
+
+Clockwork Keeper
+FND-044 | C |
+Effect: As you play me, you may pay 1 Calm power as an additional cost, If you do, draw 1
+Category: Unit
+Color: Calm
+Type: Shurima
+Cost: 2
+Might: 2
+
+Traveling Merchant
+FND-185 | UC |
+Effect: When I move, discard 1 then draw 1
+Category: Unit
+Color: Chaos
+Type: Bilgewater
+Cost: 2
+Might: 2
+
+Cemetary Attendant
+FND-165 | C |
+Effect: When you play me, return a unit from your trash to your hand
+Category: Unit
+Color: Chaos
+Type: Shadow Isles, Dog
+Cost: 3
+Power Cost: 1 Chaos
+Might: 3
+
+Wielder of Water
+FND-055 | C |
+Effect: While I'm attacking or defending alone, I have +2 Might
+Category: Unit
+Color: Calm
+Type: Ionia
+Cost: 3
+Might: 2
+
+Stealthy Pursuer
+FND-177 | C |
+Effect: When a friendly unit moves from my location, I may be moved with it
+Category: Unit
+Color: Chaos
+Type: Shurima
+Cost: 4
+Power Cost: 1 Chaos
+Might: 4
+
+Maddened Marauder
+FND-191 | UC |
+Effect: [Tank] (I muse be assigned combat damage first) When you play me, move a unit from a battlefield to its base
+Category: Unit
+Color: Chaos
+Type: Bilgewater, Pirate
+Cost: 5
+Might: 4
+
+Defy
+FND-045 | C |
+Effect: [Reaction] (This may played in response to another spell or ability) Counter a spell that costs no more than 4 energy and no more than 1 power
+Category: Spell
+Color: Calm
+Cost: 1
+
+En Garde
+FND-046 | C |
+Effect: [Reaction] (This may played in response to another spell or ability) Give a friendly unit +1 Might, then an additional +1 Might if it is the only unit you control there
+Category: Spell
+Color: Calm
+Cost: 1
+
+Meditation
+FND-048 | C |
+Effect: [Reaction] (This may played in response to another spell or ability) As an additional cost to play me, you may exhaust a friendly unit. If you do, draw 2. Otherwise, draw 1
+Category: Spell
+Color: Calm
+Cost: 2
+
+
+Discipline
+FND-058 | UC |
+Effect: [Reaction] (This may played in response to another spell or ability) Give a unit +2 Might this turn. Draw 1
+Category: Spell
+Color: Calm
+Cost: 2
+
+Rebuke
+FND-172 | C |
+Effect: Return a unit at a battlefield to its owner's hand
+Category: Spell
+Color: Chaos
+Cost: 2
+Power Cost: 2 Chaos
+
+Wind Wall
+FND-064 | UC |
+Effect: [Reaction] (This may be played in response to another spell or ability) Counter a spell
+Category: Spell
+Color: Calm
+Cost: 3
+Power Cost: 2 Calm
+
+Last Breath
+FND-260 | SR |
+Effect: Ready a friendly unit. It deals damage equal to its Might to an enemy at a battlefield.
+Category: Spell
+Color: Calm, Chaos
+Cost: 3
+Power Cost: 2 Calm/Chaos
+Subtitle: YASUO
+
+Seal of Calm
+FND-080 | SR |
+Effect: Exhaust: Add 0 energy and 1 Calm power. Activate this any time
+Category: Gear
+Color: Calm
+Cost: 0
+Power Cost: 1 Calm
+
+Targon's Peak
+FND-289 | UC |
+Effect: When you conquer here, choose 2 runes. Ready them at the end of this turn
+Category: Battlefield
+
+Windswept Hillock
+FND-297 | UC |
+Effect: Units here have [Ganking] (They can move battlefield to battlefield)
+Category: Battlefield
+
+Reaver's Row
+FND-285 | UC |
+Effect: When you defend here, you may move a friendly unit here to base
+Category: Battlefield
+
+Calm Rune
+FND-042 | T |
+Effect: Exhaust: Add 1 Energy. Recycle Me: Add 1 Calm Power. Activate this any time
+Category: Rune
+Color: Calm
+
+Chaotic Rune
+FND-166 | T |
+Effect: Exhaust: Add 1 Energy. Recycle Me: Add 1 Chaos Power. Activate this any time
+Category: Rune
+Color: Chaos
+---------------------------Yaso
+
+
+
+
+Relentless Storm
+FND-249 | R |
+Effect: When you play a unit with 5+ Might, you may exhaust me to play your top rune exhausted
+Category: Legend
+Color: Fury, Physical
+Subtitle: VOLIBEAR
+
+Miss Fortune
+FND-162 | SR |
+Effect: [Ganking] [Accelerate] (I can move from battlefield to battlefield. As I'm played, you may 1 energy and 1 physical power as an additional cost to have me enter ready) The first time I move each turn, you may ready another card
+Category: Champion
+Color: Physical
+Type: Bilgewater, Pirate
+Cost: 5
+Power Cost: 1 Physical
+Might: 5
+Subtitle: CAPTAIN
+
+Trynadamere
+FND-034 | R |
+Effect: When I conquer after an attack, if you assigned 5 or more excess damage to opponent's units, you score 1 point.
+Category: Champion
+Color: Fury
+Type: Freljord
+Cost: 7
+Power Cost: 2 Fury
+Might: 8
+Subtitle: BARBARIAN
+
+Volibear
+FND-041 | SR |
+Effect: [Deflect 2] (Opponents must pay 2 power to choose me with a spell or effect) When I attack, deal 5 damage split among any number of enemy units here
+Category: Champion
+Color: Fury
+Type: Freljord
+Cost: 10
+Power Cost: 2 Fury
+Might: 9
+Subtitle: FURIOUS
+
+Volibear
+FND-158 | R |
+Effect: [Tank] [Shield 3] (I must be assigned combat damage first. +3 Might while I'm a defender) When an opponent moves to a battlefield other than mine, draw 1 (My base is not a battlefield)
+Category: Champion
+Color: Physical
+Type: Freljord
+Cost: 12
+Power Cost: 2 Physical
+Might: 10
+Subtitle: IMPOSING
+
+
+Legion Rearguard
+FND-009 | C |
+Effect: Accelerate (As I'm played, you may pay 1 energy and 1 Fury power as an additional cost to have me enter ready)
+Category: Unit
+Color: Fury
+Type: Noxus, Trifarian
+Cost: 2
+Might: 2
+
+Blazing Scorcher
+FND-001 | C |
+Effect: Accelerate (As I'm played, you may pay 1 energy and 1 Fury power as an additional cost to have me enter ready)
+Category: Unit
+Color: Fury
+Type: Noxus, Dragon
+Cost: 5
+Might: 5
+
+Carnivorous Snapvine
+FND-149 | R |
+Effect: When you play me, choose a unit. We deal damage equal to our Mights to each other
+Category: Unit
+Color: Physical
+Type: Shadow Isles
+Cost: 5
+Power Cost: 2 Physical
+Might: 6
+
+Stormclaw Ursine
+FND-137 | C |
+Effect: [Tank] (I muse be assigned combat damage first) When you play me, play your top rune exhausted
+Category: Unit
+Color: Physical
+Type: Freljord
+Cost: 7
+Might: 6
+
+Deadbloom Predator
+FND-161 | R |
+Effect: [Deflect] (Opponents must pay 1 power to choose me with a spell or effect) You may play me to an occupied enemy battlefield
+Category: Unit
+Color: Physical
+Type: Shadow Isles
+Cost: 8
+Power Cost: 2 Physical
+Might: 8
+
+Magma Wurm
+FND-010 | C |
+Effect: Other friendly units enter ready
+Category: Unit
+Color: Fury
+Type: Freljord
+Cost: 8
+Power Cost: 1 Fury
+Might: 8
+
+Kadregrin the Infernal
+FND-038 | SR |
+Effect: When you play me, draw 1 for each of your units with 5 Might or more
+Category: Unit
+Color: Fury
+Type: Demacia, Dragon
+Cost: 9
+Power Cost: 2 Fury
+Might: 9
+
+Challenge
+FND-127 | C |
+Effect: Choose a friendly unit and an enemy unit. They deal damage equal to their might to each other
+Category: Spell
+Color: Physical
+Cost: 2
+Power Cost: 1 Fury
+
+Mobilize
+FND-133 | C |
+Effect: Play your top rune exhausted. If you can't, draw 1
+Category: Spell
+Color: Physical
+Cost: 2
+
+Disintegrate
+FND-005 | C |
+Effect: Deal 3 to a unit at a battlefield. If this kills it, draw 1
+Category: Spell
+Color: Fury
+Cost: 4
+
+Catalyst of Aeons
+FND-138 | UC |
+Effect: Play your top 2 Runes exhausted. If you can't, draw 1
+Category: Spell
+Color: Physical
+Cost: 4
+
+Stormbringer
+FND-250 | SR |
+Effect: [Focused] (Play only during turn outside a showdown) [Epic] (This starts a showdown) Choose a friendly unit in your base. Deal damage equal to its Might to all enemies at a battlefield, then move your unit there
+Category: Spell
+Color: Fury, Physical
+Cost: 6
+Power Cost: 2 Fury/Physical
+Subtitle: VOLIBEAR
+
+Void Gate
+FND-296 | UC |
+Effect: Spells and abilities affecting units here each deal 1 bonus damage (Each instance of damage the spell deals)
+Category: Battlefield
+
+Sigil of the Storm
+FND-287 | UC |
+Effect: When you conquer here, recycle one of your runes
+Category: Battlefield
+
+Obelisk of Power
+FND-284 | UC |
+Effect: Players play one additional rune during their first Runic Phase this game
+Category: Battlefield
+
+Fury Rune
+FND-007 | T |
+Effect: Exhaust: Add 1 Energy. Recycle Me: Add 1 Fury Power. Activate this any time
+Category: Rune
+Color: Fury
+
+Physical Rune
+FND-135 | T |
+Effect: Exhaust: Add 1 Energy. Recycle Me: Add 1 Physical Power. Activate this any time
+Category: Rune
+Color: Physical
+
+---------------------------Volibear Trial Deck
+
+Machine Herald
+FND-265 | R |
+Effect: Pay 2 energy and exhaust your legend: Play a 1 Might recruit token
+Category: Legend
+Color: Mental, Order
+Subtitle: VIKTOR
+
+
+Viktor
+FND-246 | SR |
+Effect: When another non-recruit unit you control dies, play a 1 Might Recruit unit token into your base
+Category: Champion
+Color: Order
+Type: Zaun
+Cost: 4
+Power Cost: 1 Order
+Might: 4
+Subtitle: LEADER
+
+Watchful Sentry
+FND-096 | C |
+Effect: [Deathknell] Draw 1. (When I die, get the effect)
+Category: Unit
+Color: Mental
+Type: Freljord
+Cost: 2
+Might: 1
+
+Soaring Scout
+FND-216 | C |
+Effect: [Deathknell] Play your top run exhausted (When I die, get the effect)
+Category: Unit
+Color: Order
+Type: Freljord, Bird
+Cost: 2
+Might: 1
+
+Faithful Manufactor
+FND-211 | C |
+Effect: When you play me, play a 1 Might Recruit unit token here
+Category: Unit
+Color: Order
+Type: Piltover
+Cost: 3
+Might: 2
+
+Vanguard Captain
+FND-218 | C |
+Effect: [Legion] When you play me, play two 1 Might Recruit unit tokens here. (Get the effect if you've played another card this turn)
+Category: Unit
+Color: Order
+Type: Demacia, Elite
+Cost: 3
+Power Cost: 1 Order
+Might: 3
+
+Cruel Patron
+FND-208 | C |
+Effect: As an additional cost to play me, kill a friendly unit
+Category: Unit
+Color: Order
+Type: Noxus
+Cost: 4
+Might: 6
+
+Machine Evangel
+FND-232 | UC |
+Effect: [Deathknell] Play three 1 Might Recruit unit tokens into your base (When I die, get the effect)
+Category: Unit
+Color: Order
+Type: Piltover
+Cost: 5
+Power Cost: 1 Order
+Might: 4
+
+Wraith of Echoes
+FND-118 | UC |
+Effect: The first time a friendly unit dies each turn, draw 1
+Category: Unit
+Color: Mental
+Type: Shadow Isles, Spirit
+Cost: 6
+Power Cost: 1 Mental
+Might: 5
+
+Harnessed Dragon
+FND-235 | UC |
+Effect: When you play me, kill a unit
+Category: Unit
+Color: Order
+Type: Demacia, Dragon
+Cost: 8
+Power Cost: 2 Order
+Might: 6
+
+Stupefy
+FND-095 | C |
+Effect: [Reaction] (This may be played in response to another spell or ability) Give a unit -1 Might this turn (minimum 1) Draw 1
+Category: Spell
+Color: Mental
+Cost: 1
+
+Siphon Power
+FND-266 | SR |
+Effect: [Reaction] (This may played in response to another spell or ability) Choose a battlefield. Give friendly units there +1 Might and enemy units there -1 Might (minimum 1) until end of turn
+Category: Spell
+Color: Mental, Chaos
+Cost: 2
+Power Cost: 1 Mental/Chaos
+
+Cull
+FND-209 | C |
+Effect: [Focused] (Play only during your turn outside a showdown) Each player kills one of their units
+Category: Spell
+Color: Order
+Cost: 2
+Power Cost: 1 Order
+
+Hidden Blade
+FND-213 | C |
+Effect: [Hidden] (Hide this facedown at a battlefield you control for 1 power. Play as a Reaction here on a later turn for 0) Kill a unit at a battlefield. Its controller draws 2
+Category: Spell
+Color: Order
+Cost: 2
+
+Grand Strategem
+FND-234 | R |
+Effect: Give friendly units +5 Might this turn
+Category: Spell
+Color: Order
+Cost: 6
+Power Cost: 3 Order
+
+Unchecked Power
+FND-123 | SR |
+Effect: [Focused] (Play only during turn outside a showdown) [Epic] (This starts a showdown) Exhaust all friendly units, then deal 12 to all units at battlefields
+Category: Spell
+Color: Mental
+Cost: 7
+Power Cost: 2 Mental
+
+Seal of Unity
+FND-245 | SR |
+Effect: Exhaust: Add 0 energy and 1 Order power. Activate this any time
+Category: Gear
+Color: Order
+Cost: 0
+Power Cost: 1 Order
+
+The Grand Plaza
+FND-293 | UC |
+Effect: When you hold here, if you have 7+ units here, you win the game
+Category: Battlefield
+
+Trifarian War Camp
+FND-294 | UC |
+Effect: Units here have +1 Might (including attackers)
+Category: Battlefield
+
+Altar of Unity
+FND-275 | UC |
+Effect: When you hold here, play a 1 Might Recruit token in your base
+Category: Battlefield
+
+Mental Rune
+FND-089 | T |
+Effect: Exhaust: Add 1 Energy. Recycle Me: Add 1 Mental Power. Activate this any time
+Category: Rune
+Color: Mental
+
+
+Order Rune
+FND-214 | T |
+Effect: Exhaust: Add 1 Energy. Recycle Me: Add 1 Order Power. Activate this any time
+Category: Rune
+Color: Order
+
+Machine Herald
+FND-265 | R |
+Effect: Pay 2 energy and exhaust your legend: Play a 1 Might recruit token
+Category: Legend
+Color: Mental, Order
+Subtitle: VIKTOR
+
+---------------------------- Viktor Trial Deck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+]
